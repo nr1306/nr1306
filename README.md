@@ -1,0 +1,3 @@
+- 👋 Hi, I’m nr1306
+- 👀 I’m interested in programming languages especially C/C++
+- 🌱 I’m currently learning C++
