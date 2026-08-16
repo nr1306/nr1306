@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nesh%20Rochwani&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&width=720&lines=M.S.+Computer+Science+%40+Illinois+Tech+%E2%80%94+May+2026;Full-Stack+%26+Cloud+Engineer;Building+AI+Agents+%26+Clinical+Intelligence+Systems;AWS+Certified+%7C+Springer+Published+Researcher;Open+to+Full-Time+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=6AD3F7&center=true&vCenter=true&width=760&lines=Building+Reliable+Software+Beyond+the+Demo;Backend+Systems+%7C+AI+Agents+%7C+Real-Time+Apps;Observability+%7C+Evaluation+%7C+Developer+Tooling;Turning+Ideas+Into+Working+Systems;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Location](https://img.shields.io/badge/Chicago%2C%20IL-0078D4?style=flat-square&logo=google-maps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/San%20Francisco%2C%20CA-0078D4?style=flat-square&logo=google-maps&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/neshrochwani121%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neshrochwani121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/nesh--rochwani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nesh-rochwani)
 [![GitHub](https://img.shields.io/badge/nr1306-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nr1306)
@@ -17,11 +17,17 @@
 
 ## About
 
-M.S. Computer Science candidate at **Illinois Institute of Technology** (May 2026) with hands-on experience building scalable backend services, cloud applications, and AI-powered systems. I work across the full stack — from serverless AWS pipelines and event-driven backends to multi-agent LLM orchestration and production SaaS APIs.
+I'm a software engineer who enjoys building systems that have to work beyond the demo.
 
-I've shipped to real users at a production startup (Find Me LLC), built IoT platforms at NXON AI, published two research papers at Springer, and presented at SMARTCOM 2024. I'm most effective at the intersection of systems engineering and applied AI — building things that are reliable, observable, and actually used.
+Most of what I build sits at the intersection of **backend engineering, AI systems, and product development** — APIs, async workflows, real-time applications, multi-agent systems, clinical intelligence tools, and software that coordinates multiple services reliably.
 
-> **Seeking full-time Software Engineering or Cloud Engineering roles · Available May 2026**
+I like problems where architecture, reliability, and product behavior all matter at the same time. That usually means thinking about things like **observability, evaluation, failure handling, state, caching, authentication, and how a system behaves when real users and external services are involved**.
+
+So far, I've built projects across **healthcare AI, multi-agent research, desktop applications, community coordination, IoT, and real-time systems**. Some of my favorite work includes ARIA, VentureScope, Ticker, CareBridge, and Golazo.
+
+I'm especially interested in **agent infrastructure, backend systems, developer tooling, observability, distributed systems, and AI applications that are actually useful in production**.
+
+Most of this GitHub is simply me learning by building.
 
 ---
 
@@ -42,7 +48,7 @@ I've shipped to real users at a production startup (Find Me LLC), built IoT plat
 </tr>
 </table>
 
-*New York (Remote) · Production SaaS · 4–6 person engineering team*
+* (Remote) · Production SaaS · 4–6 person engineering team*
 
 - Shipped customer-facing platform improvements by hardening core backend APIs with strict validation and OpenAPI regression tests, reducing production defects and enabling faster iteration through safer releases
 - Integrated **Apple Sign-In** using OAuth 2.0 and automated release pipelines via **GitLab CI/CD**, standardizing secure authentication across the team
